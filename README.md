@@ -15,14 +15,12 @@ A place for pulling together helpful information, data, [rules of conduct](https
 
 # Shared data sources
 
-## [ProPublica](https://www.propublica.org/datastore/)
-
 ### [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/endpoints/)
 
 Curated congressional data for use at the hackathon: https://projects.propublica.org/api-docs/congress-api/sources/ _Review the [terms of service](https://projects.propublica.org/api-docs/congress-api/usage/) and make sure to cite ProPublica on the downloaded data._
 
 
-## [Mapzen](https://mapzen.com/documentation/overview/)
+### [Mapzen](https://mapzen.com/documentation/overview/)
 
 
 Possible source, let's sign up for account and API key just in case.
