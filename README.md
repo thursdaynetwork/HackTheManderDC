@@ -1,29 +1,37 @@
 # UNHackTheVOTE 2017
 
-A place for pulling together helpful information, data, [rules of conduct](https://github.com/thursdaynetwork/Hackathon_Gerrymandering/blob/master/CodeOfConduct.md), and links to resources that should be relevant to participants and organizers who care about the problem of Gerrymandering.
+Please review our [rules of conduct](https://github.com/thursdaynetwork/Hackathon_Gerrymandering/blob/master/CodeOfConduct.md) and let's unhack the problem of Gerrymandering.
 
-### Format of data 
+This repo contains formatted district boundaries, census demographics, and election data for the following state:
 
-- API tokens: 
-- Languages: Javascript, Python, etc.
-- Formats: 
-- Code Snippet
-- Source: 
-- Metadata:
+- Michigan
+- Ohio
+- Texas
 
----
+We've sourced this data from:
 
-# Shared data sources
-
-### [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/endpoints/)
-
-Curated congressional data for use at the hackathon: [https://projects.propublica.org/api-docs/congress-api/sources/](https://projects.propublica.org/api-docs/congress-api/sources/)
-
-Shared API token requires setting it as an environment variable. _(Review the [terms of service](https://projects.propublica.org/api-docs/congress-api/usage/) and make sure to cite ProPublica on the downloaded data.)_
+- [The Harvard Election Data Archive](https://dataverse.harvard.edu/dataverse/eda?q=&types=dataverses%3Adatasets&sort=dateSort&order=desc&page=1)
+- [Election Statistics, 1920 to Present](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)
 
 
-### [Mapzen](https://mapzen.com/documentation/overview/)
+### Project ideas
+
+- [OpenElections](http://docs.openelections.net/) - scrape data and contribute
+- Demographics Census + District Boundaries
+  - Visual analysis
+  - Trends over 5 years
+    - retrospectives
+    - prospectives
+- Election Results
+  - Use merged State Legislative Data &  Election Data
+  - Run database analysis 
+    - Python or R
+  - Network analysis
+    - Graph databases - Neo4J
+    - R graphs
+  - Calculate Efficiency Gap
+  - Algorithm to identify  
 
 
-Possible source, let's sign up for account and API key just in case.
+
 
