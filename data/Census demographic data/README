@@ -1,1 +1,25 @@
-This folder stores Census demographic data at the congressional district level. The data are 5-year summary files for the years 2012, 2013, 2014, and 2015.
+
+This folder stores Census demographic data at the congressional district level. 
+
+
+Summary
+
+This folder contains 3 zipped files: Texas.zip, Michigan.zip, and Ohio.zip. 
+When unzipped, these files contain district-level demographic information for Texas, Michigan, and Ohio, respectively.
+
+The data come from the Census Bureau's American Fact Finder, Table S0501. They are 5-year summary files in CSV format.
+5-year summary files contain demographic characteristics as measured over the five-year period preceding the reporting year. For example, the data for year 2012 will contain population estimates for the period 2007-2012.
+
+
+Why did you use five-year summary files?
+
+The Census recommends using the five-year summary files when analyzing geographic areas smaller than the county-level. Districts are fairly small, and the five-year files provide the most reliable (though not the most current) population estimates.
+
+
+Can I compare one five-year period to another?
+
+You should only compare files whose data does not overlap. For instance, because the 2012 file covers the period 2007-2012 and the 2015 file covers the period 2010-2015, there are 3 years of overlap between the files (2010, 2011, and 2012). Thus, because those three years are each estimated differently, they are not comparable. Pick one of the years above and complete your analysis for that five-year period.  
+
+Want more information?
+
+The Census provides additional information here: https://www.census.gov/content/dam/Census/library/publications/2008/acs/ACSGeneralHandbook.pdf
