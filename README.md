@@ -12,7 +12,7 @@ We've sourced this data from:
 
 - [The Harvard Election Data Archive](https://dataverse.harvard.edu/dataverse/eda?q=&types=dataverses%3Adatasets&sort=dateSort&order=desc&page=1)
 - [Election Statistics, 1920 to Present](http://history.house.gov/Institution/Election-Statistics/Election-Statistics/)
--TIGER Congressional District Boundaries from the Census (https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
+- [TIGER Congressional District Boundaries from the Census] (https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
 
 
 
